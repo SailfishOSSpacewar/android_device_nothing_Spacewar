@@ -14,7 +14,7 @@ $(call inherit-product, frameworks/native/build/phone-xhdpi-6144-dalvik-heap.mk)
 $(call inherit-product, hardware/qcom-caf/common/common.mk)
 
 # Get non-open-source specific aspects
-$(call inherit-product, vendor/nothing/Spacewar/Spacewar-vendor.mk)
+$(call inherit-product, vendor/nothing/spacewar/spacewar-vendor.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \

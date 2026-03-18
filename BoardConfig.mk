@@ -6,7 +6,7 @@
 
 BUILD_BROKEN_INCORRECT_PARTITION_IMAGES := true
 
-DEVICE_PATH := device/nothing/Spacewar
+DEVICE_PATH := device/nothing/spacewar
 
 # A/B
 AB_OTA_UPDATER := true
@@ -217,4 +217,4 @@ CONFIG_IEEE80211AC := true
 CONFIG_IEEE80211AX := true
 
 # Include the proprietary files BoardConfig.
-include vendor/nothing/Spacewar/BoardConfigVendor.mk
+include vendor/nothing/spacewar/BoardConfigVendor.mk

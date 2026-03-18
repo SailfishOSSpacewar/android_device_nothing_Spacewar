@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=Spacewar
+DEVICE=spacewar
 VENDOR=nothing
 
 # Load extract_utils and do some sanity checks
