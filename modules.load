@@ -41,7 +41,6 @@ btpower.ko
 bt_fm_slim.ko
 qcom_edac.ko
 hid-aksys.ko
-nothing_stability_test.ko
 slimbus.ko
 slimbus-ngd.ko
 pinctrl_wcd_dlkm.ko
@@ -55,8 +54,6 @@ adsp_loader_dlkm.ko
 q6_pdr_dlkm.ko
 q6_notifier_dlkm.ko
 apr_dlkm.ko
-wcd937x_dlkm.ko
-wcd937x_slave_dlkm.ko
 wcd938x_dlkm.ko
 wcd938x_slave_dlkm.ko
 bolero_cdc_dlkm.ko
@@ -75,5 +72,4 @@ hdmi_dlkm.ko
 swr_haptics_dlkm.ko
 platform_dlkm.ko
 machine_dlkm.ko
-camera.ko
-wlan.ko
+qca_cld3_qca6750.ko
